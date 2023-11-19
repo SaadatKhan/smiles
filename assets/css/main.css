@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #312450;
+		background: #1F356F;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3204,6 +3204,12 @@ input, select, textarea {
 
 	.wrapper {
 		position: relative;
+	}
+	.wrapper > .inner1 {
+		padding: 5em 5em 3em 5em ;
+		max-height: 10em;
+		max-width: 100%;
+		width: 75em;
 	}
 
 		.wrapper > .inner {
