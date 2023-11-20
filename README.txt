@@ -31,3 +31,5 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+During prototyping, use this link to access the published website: https://saadatkhan.github.io/smiles/
